@@ -8,7 +8,6 @@
 </head>
 <body>
     <h1>ciao</h1>
-    <h2>Arrivederci!!</h2>
-    <h3>alt + f4</h3>
+    <h2>Arrivederci</h2>
 </body>
 </html>
